@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="190" viewBox="0 0 840 190" role="img" aria-label="Kwabena — I build things here every now and then">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0f766e"/>
+      <stop offset="55%" stop-color="#1e3a8a"/>
+      <stop offset="100%" stop-color="#4c1d95"/>
+    </linearGradient>
+    <linearGradient id="rule" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#5eead4"/>
+      <stop offset="100%" stop-color="#c4b5fd"/>
+    </linearGradient>
+    <clipPath id="round"><rect width="840" height="190" rx="14"/></clipPath>
+  </defs>
+  <g clip-path="url(#round)">
+    <rect width="840" height="190" fill="url(#bg)"/>
+    <g opacity="0.16" fill="none" stroke="#ffffff" stroke-width="1.5">
+      <circle cx="742" cy="40" r="80"/>
+      <circle cx="742" cy="40" r="122"/>
+      <circle cx="742" cy="40" r="164"/>
+    </g>
+    <g opacity="0.55" fill="#5eead4">
+      <circle cx="620" cy="150" r="3.5"/><circle cx="640" cy="150" r="3.5"/><circle cx="660" cy="150" r="3.5"/>
+    </g>
+    <text x="58" y="84" font-family="ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="46" font-weight="700" fill="#ffffff" letter-spacing="0.5">Kwabena</text>
+    <rect x="58" y="102" width="72" height="4" rx="2" fill="url(#rule)"/>
+    <text x="58" y="152" font-family="ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="19" fill="#dbeafe" opacity="0.95">I build things here every now and then.</text>
+  </g>
+</svg>
