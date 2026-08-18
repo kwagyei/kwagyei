@@ -10,3 +10,9 @@
 ![Python](https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=python&logoColor=ffffff)
 
 ![Sweden](https://img.shields.io/badge/Sweden-006aa7?style=for-the-badge&logo=googlemaps&logoColor=fecc02)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kwagyei/kwagyei/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kwagyei/kwagyei/output/snake.svg">
+  <img alt="A snake eating my contribution graph" src="https://raw.githubusercontent.com/kwagyei/kwagyei/output/snake.svg" width="100%">
+</picture>
