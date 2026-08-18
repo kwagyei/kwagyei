@@ -1,4 +1,4 @@
-<img src="header.svg" alt="Kwabena — I build things here every now and then" width="100%">
+<img src="https://raw.githubusercontent.com/kwagyei/kwagyei/main/header.svg" alt="Kwabena — I build things here every now and then" width="100%">
 
 ### Usually working in
 
