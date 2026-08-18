@@ -11,10 +11,7 @@
 
 ![Sweden](https://img.shields.io/badge/Sweden-006aa7?style=for-the-badge&logo=googlemaps&logoColor=fecc02)
 
-<p>
-  <img height="165" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=kwagyei&show_icons=true&hide_title=true&bg_color=0d1117&text_color=8b949e&icon_color=58a6ff&title_color=7ee787&border_color=30363d&border_radius=10">
-  <img height="165" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kwagyei&layout=compact&bg_color=0d1117&text_color=8b949e&title_color=7ee787&border_color=30363d&border_radius=10">
-</p>
+<img src="https://raw.githubusercontent.com/kwagyei/kwagyei/main/stats.svg" alt="GitHub stats" width="100%">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kwagyei/kwagyei/output/snake-dark.svg">
